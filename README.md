@@ -11,3 +11,5 @@ simple to do list app
 $ git clone https://github.com/rizieqfk/todol                                
 $ cd todol  
 $ python app.py
+
+![image](https://github.com/user-attachments/assets/8ca9edd0-9243-4fc6-a5f9-6b50288aba93)
